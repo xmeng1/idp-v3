@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../idp-admin-api/idp-admin-api.iml" filepath="$PROJECT_DIR$/../idp-admin-api/idp-admin-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-admin-impl/idp-admin-impl.iml" filepath="$PROJECT_DIR$/../idp-admin-impl/idp-admin-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-attribute-api/idp-attribute-api.iml" filepath="$PROJECT_DIR$/../idp-attribute-api/idp-attribute-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-attribute-filter-api/idp-attribute-filter-api.iml" filepath="$PROJECT_DIR$/../idp-attribute-filter-api/idp-attribute-filter-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-attribute-filter-impl/idp-attribute-filter-impl.iml" filepath="$PROJECT_DIR$/../idp-attribute-filter-impl/idp-attribute-filter-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-attribute-filter-spring/idp-attribute-filter-spring.iml" filepath="$PROJECT_DIR$/../idp-attribute-filter-spring/idp-attribute-filter-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-attribute-resolver-api/idp-attribute-resolver-api.iml" filepath="$PROJECT_DIR$/../idp-attribute-resolver-api/idp-attribute-resolver-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-attribute-resolver-impl/idp-attribute-resolver-impl.iml" filepath="$PROJECT_DIR$/../idp-attribute-resolver-impl/idp-attribute-resolver-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-attribute-resolver-spring/idp-attribute-resolver-spring.iml" filepath="$PROJECT_DIR$/../idp-attribute-resolver-spring/idp-attribute-resolver-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-authn-api/idp-authn-api.iml" filepath="$PROJECT_DIR$/../idp-authn-api/idp-authn-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-authn-impl/idp-authn-impl.iml" filepath="$PROJECT_DIR$/../idp-authn-impl/idp-authn-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-cas-api/idp-cas-api.iml" filepath="$PROJECT_DIR$/../idp-cas-api/idp-cas-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-cas-impl/idp-cas-impl.iml" filepath="$PROJECT_DIR$/../idp-cas-impl/idp-cas-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-conf/idp-conf.iml" filepath="$PROJECT_DIR$/../idp-conf/idp-conf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-consent-api/idp-consent-api.iml" filepath="$PROJECT_DIR$/../idp-consent-api/idp-consent-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-consent-impl/idp-consent-impl.iml" filepath="$PROJECT_DIR$/../idp-consent-impl/idp-consent-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-core/idp-core.iml" filepath="$PROJECT_DIR$/../idp-core/idp-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-distribution/idp-distribution.iml" filepath="$PROJECT_DIR$/../idp-distribution/idp-distribution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-installer/idp-installer.iml" filepath="$PROJECT_DIR$/../idp-installer/idp-installer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idp-parent.iml" filepath="$PROJECT_DIR$/idp-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-profile-api/idp-profile-api.iml" filepath="$PROJECT_DIR$/../idp-profile-api/idp-profile-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-profile-impl/idp-profile-impl.iml" filepath="$PROJECT_DIR$/../idp-profile-impl/idp-profile-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-profile-spring/idp-profile-spring.iml" filepath="$PROJECT_DIR$/../idp-profile-spring/idp-profile-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-saml-api/idp-saml-api.iml" filepath="$PROJECT_DIR$/../idp-saml-api/idp-saml-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-saml-impl/idp-saml-impl.iml" filepath="$PROJECT_DIR$/../idp-saml-impl/idp-saml-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-schema/idp-schema.iml" filepath="$PROJECT_DIR$/../idp-schema/idp-schema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-session-api/idp-session-api.iml" filepath="$PROJECT_DIR$/../idp-session-api/idp-session-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-session-impl/idp-session-impl.iml" filepath="$PROJECT_DIR$/../idp-session-impl/idp-session-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-ui/idp-ui.iml" filepath="$PROJECT_DIR$/../idp-ui/idp-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../idp-war/idp-war.iml" filepath="$PROJECT_DIR$/../idp-war/idp-war.iml" />
+    </modules>
+  </component>
+</project>

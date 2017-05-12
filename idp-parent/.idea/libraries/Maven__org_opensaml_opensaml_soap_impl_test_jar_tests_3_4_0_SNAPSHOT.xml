@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.opensaml:opensaml-soap-impl:test-jar:tests:3.4.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opensaml/opensaml-soap-impl/3.4.0-SNAPSHOT/opensaml-soap-impl-3.4.0-20170512.045042-154-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opensaml/opensaml-soap-impl/3.4.0-SNAPSHOT/opensaml-soap-impl-3.4.0-20170512.045042-154-test-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opensaml/opensaml-soap-impl/3.4.0-SNAPSHOT/opensaml-soap-impl-3.4.0-20170512.045042-154-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

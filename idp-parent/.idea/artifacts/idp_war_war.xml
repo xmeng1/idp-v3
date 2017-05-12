@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="idp-war:war">
+    <output-path>$PROJECT_DIR$/../idp-war/target</output-path>
+    <root id="archive" name="idp-war-3.4.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="idp-war:war exploded" />
+    </root>
+  </artifact>
+</component>

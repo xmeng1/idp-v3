@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="idp-admin-api" />
+        <module name="idp-admin-impl" />
+        <module name="idp-attribute-api" />
+        <module name="idp-attribute-filter-api" />
+        <module name="idp-attribute-filter-impl" />
+        <module name="idp-attribute-filter-spring" />
+        <module name="idp-attribute-resolver-api" />
+        <module name="idp-attribute-resolver-impl" />
+        <module name="idp-attribute-resolver-spring" />
+        <module name="idp-authn-api" />
+        <module name="idp-authn-impl" />
+        <module name="idp-cas-api" />
+        <module name="idp-cas-impl" />
+        <module name="idp-conf" />
+        <module name="idp-consent-api" />
+        <module name="idp-consent-impl" />
+        <module name="idp-core" />
+        <module name="idp-installer" />
+        <module name="idp-profile-api" />
+        <module name="idp-profile-impl" />
+        <module name="idp-profile-spring" />
+        <module name="idp-saml-api" />
+        <module name="idp-saml-impl" />
+        <module name="idp-schema" />
+        <module name="idp-session-api" />
+        <module name="idp-session-impl" />
+        <module name="idp-ui" />
+        <module name="idp-war" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="idp-admin-api" target="1.7" />
+      <module name="idp-admin-impl" target="1.7" />
+      <module name="idp-attribute-api" target="1.7" />
+      <module name="idp-attribute-filter-api" target="1.7" />
+      <module name="idp-attribute-filter-impl" target="1.7" />
+      <module name="idp-attribute-filter-spring" target="1.7" />
+      <module name="idp-attribute-resolver-api" target="1.7" />
+      <module name="idp-attribute-resolver-impl" target="1.7" />
+      <module name="idp-attribute-resolver-spring" target="1.7" />
+      <module name="idp-authn-api" target="1.7" />
+      <module name="idp-authn-impl" target="1.7" />
+      <module name="idp-cas-api" target="1.7" />
+      <module name="idp-cas-impl" target="1.7" />
+      <module name="idp-conf" target="1.7" />
+      <module name="idp-consent-api" target="1.7" />
+      <module name="idp-consent-impl" target="1.7" />
+      <module name="idp-core" target="1.7" />
+      <module name="idp-distribution" target="1.7" />
+      <module name="idp-installer" target="1.7" />
+      <module name="idp-parent" target="1.7" />
+      <module name="idp-profile-api" target="1.7" />
+      <module name="idp-profile-impl" target="1.7" />
+      <module name="idp-profile-spring" target="1.7" />
+      <module name="idp-saml-api" target="1.7" />
+      <module name="idp-saml-impl" target="1.7" />
+      <module name="idp-schema" target="1.7" />
+      <module name="idp-session-api" target="1.7" />
+      <module name="idp-session-impl" target="1.7" />
+      <module name="idp-ui" target="1.7" />
+      <module name="idp-war" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

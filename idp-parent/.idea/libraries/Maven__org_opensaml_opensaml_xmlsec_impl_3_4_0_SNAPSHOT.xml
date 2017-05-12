@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.opensaml:opensaml-xmlsec-impl:3.4.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opensaml/opensaml-xmlsec-impl/3.4.0-SNAPSHOT/opensaml-xmlsec-impl-3.4.0-20170512.044711-154.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opensaml/opensaml-xmlsec-impl/3.4.0-SNAPSHOT/opensaml-xmlsec-impl-3.4.0-20170512.044711-154-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opensaml/opensaml-xmlsec-impl/3.4.0-SNAPSHOT/opensaml-xmlsec-impl-3.4.0-20170512.044711-154-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

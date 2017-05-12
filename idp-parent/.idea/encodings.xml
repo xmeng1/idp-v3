@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../idp-admin-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-admin-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-attribute-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-attribute-filter-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-attribute-filter-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-attribute-filter-spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-attribute-resolver-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-attribute-resolver-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-attribute-resolver-spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-authn-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-authn-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-cas-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-cas-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-conf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-consent-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-consent-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-distribution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-installer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-profile-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-profile-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-profile-spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-saml-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-saml-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-schema" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-session-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-session-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../idp-war" charset="UTF-8" />
+  </component>
+</project>

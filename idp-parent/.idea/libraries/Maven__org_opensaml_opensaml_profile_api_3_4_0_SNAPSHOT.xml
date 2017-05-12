@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.opensaml:opensaml-profile-api:3.4.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opensaml/opensaml-profile-api/3.4.0-SNAPSHOT/opensaml-profile-api-3.4.0-20170512.043701-155.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opensaml/opensaml-profile-api/3.4.0-SNAPSHOT/opensaml-profile-api-3.4.0-20170512.043701-155-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opensaml/opensaml-profile-api/3.4.0-SNAPSHOT/opensaml-profile-api-3.4.0-20170512.043701-155-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

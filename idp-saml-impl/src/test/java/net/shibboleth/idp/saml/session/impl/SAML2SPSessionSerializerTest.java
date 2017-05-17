@@ -17,19 +17,18 @@
 
 package net.shibboleth.idp.saml.session.impl;
 
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.net.URISyntaxException;
-
 import net.shibboleth.idp.saml.session.SAML2SPSession;
-
 import org.opensaml.core.OpenSAMLInitBaseTestCase;
 import org.opensaml.core.xml.util.XMLObjectSupport;
 import org.opensaml.saml.saml2.core.NameID;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.net.URISyntaxException;
 
 /** {@link SAML2SPSessionSerializer} unit test. */
 public class SAML2SPSessionSerializerTest extends OpenSAMLInitBaseTestCase {
@@ -50,6 +49,10 @@ public class SAML2SPSessionSerializerTest extends OpenSAMLInitBaseTestCase {
         serializer = new SAML2SPSessionSerializer(0);
     }
 
+    /**
+     * Test the invalid session json deserializer to object should fail
+     * @throws Exception
+     */
     @Test public void testInvalid() throws Exception {
         try {
             serializer.deserialize(1, CONTEXT, KEY, fileToString(DATAPATH + "noNameID.json"), INSTANT);
